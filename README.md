@@ -125,4 +125,7 @@ You can test all the endpoints using Postman. Make sure to:
 ## 🤝 Contributing
 Contributions are welcome!
 If you find any bugs or want to enhance features, feel free to submit a pull request.
+---
+## 🔗 Connect with Me
+- LinkedIn: [Chetan Pawar](https://www.linkedin.com/in/chetan-pawar29/)
   
