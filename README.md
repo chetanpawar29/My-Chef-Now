@@ -123,8 +123,9 @@ You can test all the endpoints using Postman. Make sure to:
 - This token is used to authenticate and authorize access to secured endpoints.
 ---
 ## 🤝 Contributing
-Contributions are welcome!
-If you find any bugs or want to enhance features, feel free to submit a pull request.
+   Contributions are welcome!
+   If you find any bugs or want to enhance features, feel free to submit a pull request.
+   
 ---
 ## 🔗 Connect with Me
 - LinkedIn: [Chetan Pawar](https://www.linkedin.com/in/chetan-pawar29/)
